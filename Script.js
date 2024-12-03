@@ -1,6 +1,6 @@
 document.getElementById('downloadBtn').addEventListener('click', function() {
     // Path to the PDF file you want to allow the user to download
-    var pdfUrl = 'https://p-def6.pcloud.com/D4Z16680GZozu14h7ZtMFM7ZZUIAHXkZ2ZZNsHZkZazwFZgzZKYZ6LZuCD05ZrM87uBjIxyJUWR1e57cJoH3S0ISX/Ankit%20cretificate.pdf'; // Replace with your PDF file's URL
+    var pdfUrl = 'https://p-def6.pcloud.com/D4Z16680GZozu14h7ZtMFM7ZZkJyzXkZ2ZZKcJZkZazwFZgzZ6LZKYZuCD05ZbPEeU9OX1oHFYLvTotsLr78Epgl7/Ankit%20cretificate.pdf'; // Replace with your PDF file's URL
 
     // Trigger the download
     var link = document.createElement('a');
